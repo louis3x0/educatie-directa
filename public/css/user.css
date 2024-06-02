@@ -1,0 +1,43 @@
+.background {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} 
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.required {
+    color: red;
+}
+
+.no-photo{
+    height: 100% !important;
+    width: 100% !important;
+}
+
+th{
+    font-weight: 500;
+}

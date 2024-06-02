@@ -1,0 +1,62 @@
+h5 {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.location {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 1em;
+    margin-bottom: 1.5em !important;
+}
+
+p {
+    color: #0F2B3D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+.card-img-top{
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+.review {
+    font-weight: 400;
+}
+
+.card-review {
+    border: 1px solid #d8d8d8 !important;
+    box-shadow: none !important;
+}
+
+.btn-secondary {
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+}
+
+time{
+    padding: 4px;
+    color: #fff;
+    background: #198754;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-left: 1em;
+    padding-left: 15px;
+    padding-right: 15px;
+}
